@@ -1,4 +1,4 @@
-# SIG731_Data Wrangling with Python: Project Report_Task 1 - Australian Income Tax Analysis
+# SIG731_Data Wrangling with Python: Project Report - Australian Income Tax Analysis
 
 This project simulates and analyzes the calculation of Australian income tax, weekly withholding tax, and tax returns for a group of individuals, incorporating the impact of before-tax superannuation contributions. It demonstrates the use of Python for financial data wrangling and analysis, aligning with the concepts covered in Module 1 of SIG731 (Chapters 1-3 of "Minimalist Data Wrangling with Python").
 
